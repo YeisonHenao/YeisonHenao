@@ -9,10 +9,10 @@
 </h1>
 </div>
 
-### :technologist: About Me :
+### :technologist: Acerca de mi :
 
-- :telescope: I am a self-taught developer and contributing to frontend and backend for building web applications.
+- :telescope: Soy un desarrollador autodidacta que se enfoca en el desarrollo de aplicaciones Frontend y aplicaciones moviles en iOS.
 
-- :zap: In my free time, I solve problems on train my skills and read tech articles.
+- :zap: En mis tiempos libres resuelvo problemas para entrenar mis habilidades y leer artículos con relación a la tecnología.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yeison-alexander-henao-osorio-5a9725204/)
+- :mailbox:Contacta conmigo: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yeison-alexander-henao-osorio-5a9725204/)
