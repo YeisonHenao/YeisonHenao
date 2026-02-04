@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=Yeison%20Alexander&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Yeison+Alexander;Frontend+Developer;iOS+(UIKit)+Developer;Fullstack+Mindset" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3> ⚡ Frontend & iOS Developer | .NET Core | Python </h3>
-  <p>Construyendo experiencias digitales robustas con Vue 3 y UIKit</p>
+  <p>Construyendo experiencias digitales robustas con <strong>Vue 3</strong> y <strong>UIKit</strong></p>
 </div>
 
 ---
@@ -13,56 +12,33 @@
 
 - 🚀 **Especialidad:** Desarrollador autodidacta enfocado en el alto rendimiento del **Frontend** y la arquitectura sólida en **iOS (UIKit)**.
 - 🛠️ **Fullstack mindset:** Manejo de ecosistemas backend con **.NET Core 6** y análisis de datos con **Python**.
-- 🧠 **Aprendizaje continuo:** Dedico mi tiempo libre a resolver algoritmos complejos y a estudiar las últimas tendencias en optimización web y móvil.
+- 🧠 **Aprendizaje continuo:** Dedico mi tiempo libre a resolver problemas complejos y estudiar optimización.
 
 ---
 
-### 💻 Stack Tecnológico
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <strong>Frontend</strong><br/>
-      <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Mobile (iOS)</strong><br/>
-      <img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=white" />
-      <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
-      <img src="https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Backend & DB</strong><br/>
-      <img src="https://img.shields.io/badge/.NET%206-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Estadísticas de GitHub
+### 💻 Stack Tecnológico (Minimalista)
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=transparent&title_color=000000&text_color=555555&icon_color=000000&hide_border=true&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=transparent&title_color=000000&text_color=555555&icon_color=000000&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+
+| Frontend | Mobile (iOS) | Backend & DB |
+| :--- | :--- | :--- |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=flat-square&logo=vue.js&logoColor=white) | ![Swift](https://img.shields.io/badge/Swift-000?style=flat-square&logo=swift&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET%206-000?style=flat-square&logo=dotnet&logoColor=white) |
+| ![Vite](https://img.shields.io/badge/Vite-000?style=flat-square&logo=vite&logoColor=white) | ![UIKit](https://img.shields.io/badge/UIKit-000?style=flat-square&logo=apple&logoColor=white) | ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TS-000?style=flat-square&logo=typescript&logoColor=white) | ![Xcode](https://img.shields.io/badge/Xcode-000?style=flat-square&logo=xcode&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=mysql&logoColor=white) |
+
 </div>
 
+---
+
+### 📊 Actividad y Estadísticas
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUÍ&theme=transparent&currStreakNum=000000&sideLabels=000000&sideNumbers=000000&fire=000000&currStreakLabel=000000&dates=555555&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" />
+
+  <br/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=omni&title_color=000000&text_color=444444&icon_color=000000&hide_border=true&bg_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=omni&title_color=000000&text_color=444444&icon_color=000000&hide_border=true&bg_color=ffffff" />
 </div>
 
 ---
@@ -73,11 +49,8 @@
   <a href="https://www.linkedin.com/in/yeison-alexander-henao-osorio-5a9725204/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU_CORREO@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&bg_color=ffffff&text_color=000000&quote_color=333333" />
 </div>
