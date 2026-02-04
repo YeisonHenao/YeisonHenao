@@ -30,27 +30,3 @@
 
 ---
 
-### 📊 Actividad y Estadísticas
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" />
-
-  <br/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=omni&title_color=000000&text_color=444444&icon_color=000000&hide_border=true&bg_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=omni&title_color=000000&text_color=444444&icon_color=000000&hide_border=true&bg_color=ffffff" />
-</div>
-
----
-
-### 📩 Contacto
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yeison-alexander-henao-osorio-5a9725204/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&bg_color=ffffff&text_color=000000&quote_color=333333" />
-</div>
