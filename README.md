@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Yeison+Alexander;Fullstack+Engineer;iOS+(UIKit)+Developer;Frontend+Specialist;Performance+Obsessed" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Yeison+Henao;Fullstack+Engineer;iOS+(UIKit)+Developer;Frontend+Specialist;Performance+Obsessed" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -39,8 +39,3 @@ Actualmente trabajando en una arquitectura de Backend optimizada para alta veloc
 - **Seguridad:** Autenticación robusta con **JWT** y manejo de sesiones seguras.
 - **Estandarización:** Implementación de interfaces de respuesta (`ResponseStructure`) para asegurar contratos de datos consistentes entre Backend y Frontend.
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
